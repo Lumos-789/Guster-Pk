@@ -4,6 +4,6 @@ Press a global hotkey to open a new terminal window, cd into Guster path, and la
 
 ## Acceptance
 
-- [ ] Any app → hotkey → new terminal window opens at Guster path with CC running
+- Any app → hotkey → new terminal window opens at Guster path with CC running
 
 <!-- impl-wanted: branch `impl/hi-duck-hi-guster` to add your implementation -->
