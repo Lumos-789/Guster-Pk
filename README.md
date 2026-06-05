@@ -1,8 +1,7 @@
 <div align="center">
-  <img src="assets/logo.jpg" alt="Guster-Ducks" width="180" />
+  <img src="assets/logo.jpg" alt="Guster-Ducks" width="160" style="border-radius: 24px; box-shadow: 0 4px 24px rgba(0,0,0,0.12);" />
+  <h1>Guster-Ducks</h1>
 </div>
-
-# Guster-Ducks
 
 A personal agent toolkit built on [Claude Code](https://docs.anthropic.com/en/docs/claude-code). Talk to Guster and manage the ducks. Ducks get things done.
 
