@@ -3,22 +3,22 @@
   <h1>Guster-Ducks</h1>
 </div>
 
-A personal agent toolkit built on [Claude Code](https://docs.anthropic.com/en/docs/claude-code). Talk to Guster and manage the ducks. Ducks get things done.
+A personal agent toolkit for [Claude Code](https://docs.anthropic.com/en/docs/claude-code). Talk to Guster. Manage the ducks. Get things done.
 
-Markdown specs, zero infrastructure. Each file is a spec for a capability — implement them in your own branch.
+Markdown specs. Zero infrastructure. Every file is a capability — fork and implement.
 
 ## Architecture
 
 ```
-paths/              Ducks exchange info through files
+paths/              Data flows through files
    ↓
-hi-ducks/           How you interact with ducks
+hi-ducks/           Talk to ducks
    ↓
-manage-ducks/       How you manage ducks
+manage-ducks/       Orchestrate ducks
    ↓
-duck-skills/        What ducks can do
-  ├── engineering/    Code skills
-  └── desktop-setup/  Desktop vibe skills
+duck-skills/        Ducks do work
+  ├── engineering/    Ship code
+  └── desktop-setup/  Vibe your machine
 ```
 
 ## Quick Start
