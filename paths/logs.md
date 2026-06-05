@@ -4,4 +4,6 @@ name: logs
 
 Logs. `daily-YYYY-MM-DD.md` (scratch notes), `status-`/`wrap-up-` (reports).
 
-<!-- implementation: empty on this branch -->
+## Implementation
+
+Empty on this branch.

@@ -8,4 +8,6 @@ Write tests, run tests, fix failures.
 - Test names explain what they test
 - All green
 
-<!-- implementation: empty on this branch -->
+## Implementation
+
+Empty on this branch.

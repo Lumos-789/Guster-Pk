@@ -9,4 +9,6 @@ Socratic grilling — one question at a time, force clarity before code.
 - Challenge ambiguity and contradiction
 - Output design summary when done
 
-<!-- implementation: empty on this branch -->
+## Implementation
+
+Empty on this branch.

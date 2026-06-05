@@ -8,4 +8,6 @@ Multi-source search, cross-verify, synthesize structured report.
 - Key claims cited
 - Conclusion first, evidence follows
 
-<!-- implementation: empty on this branch -->
+## Implementation
+
+Empty on this branch.

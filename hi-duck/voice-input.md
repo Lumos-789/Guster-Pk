@@ -7,4 +7,6 @@ Hold hotkey to record, release to transcribe locally and auto-paste text at curs
 - Hold hotkey → speak → release → text pasted at cursor
 - Fully offline, no network required
 
-<!-- implementation: empty on this branch -->
+## Implementation
+
+Empty on this branch.

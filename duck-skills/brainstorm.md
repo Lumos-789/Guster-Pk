@@ -8,4 +8,6 @@ Take a raw idea and expand it: explore angles, challenge assumptions, find what'
 - Outputs structured expansion: what, why, how, risks, next steps
 - One question at a time if interactive
 
-<!-- implementation: empty on this branch -->
+## Implementation
+
+Empty on this branch.
