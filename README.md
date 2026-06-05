@@ -1,13 +1,13 @@
 # Guster-Ducks
 
-A personal agent toolkit built on [Claude Code](https://docs.anthropic.com/en/docs/claude-code). You talk to Guster, Guster manages the ducks, ducks get things done.
+A personal agent toolkit built on [Claude Code](https://docs.anthropic.com/en/docs/claude-code). You talk to Guster, and Guster manages the ducks. Ducks get things done.
 
 Markdown specs, zero infrastructure. Each file is a spec for a capability — implement them in your own branch.
 
 ## Architecture
 
 ```
-paths/          Agents exchange info through files
+paths/          Ducks exchange info through files
    ↓
 hi-ducks/       How you interact with ducks
    ↓
