@@ -1,4 +1,4 @@
-# Find a Skill（找技能）
+# Find Skills（找技能）
 
 Search community skill repos and curate ones worth using.
 
