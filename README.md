@@ -26,11 +26,10 @@ duck-skills/        What ducks can do
 ```
 git clone https://github.com/Lumos-789/Guster-Ducks.git
 cd Guster-Ducks
-cat CLAUDE.md          # understand the structure
-ls -R duck-skills/    # pick your skills
+claude
 ```
 
-`main` branch is specs only. Branch off to add your implementation.
+Open the project in Claude Code and let it read `CLAUDE.md` — it will understand the structure and start dispatching ducks.
 
 ## License
 
